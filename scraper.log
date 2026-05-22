@@ -1142,3 +1142,188 @@ oo Many Requests for url: https://hubud.kemenhub.go.id/hubud/website/lalu-lintas
 2026-05-22 22:29:00,468 [WARNING] 429 saat mengambil CSRF token. Menunggu 120s (percobaan 5/5)...
 2026-05-22 22:31:00,470 [ERROR] Gagal mendapatkan CSRF token setelah semua percobaan.
 2026-05-22 22:31:00,471 [ERROR] Gagal mendapatkan CSRF token. Program dihentikan.
+2026-05-22 15:39:35,888 [INFO] ============================================================
+2026-05-22 15:39:35,888 [INFO]   KEMENHUB HUBUD — SCRAPER LALU LINTAS ANGKUTAN UDARA
+2026-05-22 15:39:35,888 [INFO] ============================================================
+2026-05-22 15:39:35,889 [INFO]   Bandara  : UPG
+2026-05-22 15:39:35,889 [INFO]   Kategori : domestik
+2026-05-22 15:39:35,889 [INFO]   Periode  : 2020-01  →  2026-05
+2026-05-22 15:39:35,889 [INFO]   Output   : lalinud_UPG_domestik_2020-01_2026-05.csv / lalinud_UPG_domestik_2020-01_2026-05.xlsx
+2026-05-22 15:39:35,889 [INFO] ============================================================
+2026-05-22 15:39:35,890 [INFO] Total periode yang akan diambil: 77 bulan
+
+2026-05-22 15:39:35,890 [INFO] Resume: 36 periode sudah di-scrape sebelumnya.
+
+2026-05-22 15:39:35,891 [INFO] Mengambil CSRF token dari halaman utama (percobaan 1)...
+2026-05-22 15:39:37,095 [INFO] CSRF token ditemukan: 77d674e7754a...
+2026-05-22 15:39:37,096 [INFO] [1/77] Skip 2020-01 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [2/77] Skip 2020-02 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [3/77] Skip 2020-03 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [4/77] Skip 2020-04 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [5/77] Skip 2020-05 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [6/77] Skip 2020-06 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [7/77] Skip 2020-07 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [8/77] Skip 2020-08 (sudah di-scrape)
+2026-05-22 15:39:37,096 [INFO] [9/77] Skip 2020-09 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [10/77] Skip 2020-10 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [11/77] Skip 2020-11 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [12/77] Skip 2020-12 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [13/77] Skip 2021-01 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [14/77] Skip 2021-02 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [15/77] Skip 2021-03 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [16/77] Skip 2021-04 (sudah di-scrape)
+2026-05-22 15:39:37,097 [INFO] [17/77] Skip 2021-05 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [18/77] Skip 2021-06 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [19/77] Skip 2021-07 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [20/77] Skip 2021-08 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [21/77] Skip 2021-09 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [22/77] Skip 2021-10 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [23/77] Skip 2021-11 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [24/77] Skip 2021-12 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [25/77] Skip 2022-01 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [26/77] Skip 2022-02 (sudah di-scrape)
+2026-05-22 15:39:37,098 [INFO] [27/77] Skip 2022-03 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [28/77] Skip 2022-04 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [29/77] Skip 2022-05 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [30/77] Skip 2022-06 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [31/77] Skip 2022-07 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [32/77] Skip 2022-08 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [33/77] Skip 2022-09 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [34/77] Skip 2022-10 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [35/77] Skip 2022-11 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [36/77] Skip 2022-12 (sudah di-scrape)
+2026-05-22 15:39:37,099 [INFO] [37/77] Memproses periode 2023-01...
+2026-05-22 15:39:37,100 [INFO]   ↳ Scraping 2023-01 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:39,336 [INFO]   ✓ Berhasil: 2023-01 — data=15 kolom
+2026-05-22 15:39:41,203 [INFO] [38/77] Memproses periode 2023-02...
+2026-05-22 15:39:41,203 [INFO]   ↳ Scraping 2023-02 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:43,354 [INFO]   ✓ Berhasil: 2023-02 — data=15 kolom
+2026-05-22 15:39:44,879 [INFO] [39/77] Memproses periode 2023-03...
+2026-05-22 15:39:44,879 [INFO]   ↳ Scraping 2023-03 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:46,990 [INFO]   ✓ Berhasil: 2023-03 — data=15 kolom
+2026-05-22 15:39:48,763 [INFO] [40/77] Memproses periode 2023-04...
+2026-05-22 15:39:48,764 [INFO]   ↳ Scraping 2023-04 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:50,863 [INFO]   ✓ Berhasil: 2023-04 — data=15 kolom
+2026-05-22 15:39:52,485 [INFO] [41/77] Memproses periode 2023-05...
+2026-05-22 15:39:52,485 [INFO]   ↳ Scraping 2023-05 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:54,559 [INFO]   ✓ Berhasil: 2023-05 — data=15 kolom
+2026-05-22 15:39:56,402 [INFO] [42/77] Memproses periode 2023-06...
+2026-05-22 15:39:56,402 [INFO]   ↳ Scraping 2023-06 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:39:58,499 [INFO]   ✓ Berhasil: 2023-06 — data=15 kolom
+2026-05-22 15:40:00,233 [INFO] [43/77] Memproses periode 2023-07...
+2026-05-22 15:40:00,234 [INFO]   ↳ Scraping 2023-07 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:02,838 [INFO]   ✓ Berhasil: 2023-07 — data=15 kolom
+2026-05-22 15:40:04,081 [INFO] [44/77] Memproses periode 2023-08...
+2026-05-22 15:40:04,081 [INFO]   ↳ Scraping 2023-08 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:06,188 [INFO]   ✓ Berhasil: 2023-08 — data=15 kolom
+2026-05-22 15:40:07,416 [INFO] [45/77] Memproses periode 2023-09...
+2026-05-22 15:40:07,417 [INFO]   ↳ Scraping 2023-09 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:09,556 [INFO]   ✓ Berhasil: 2023-09 — data=15 kolom
+2026-05-22 15:40:10,668 [INFO] [46/77] Memproses periode 2023-10...
+2026-05-22 15:40:10,668 [INFO]   ↳ Scraping 2023-10 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:12,866 [INFO]   ✓ Berhasil: 2023-10 — data=15 kolom
+2026-05-22 15:40:14,004 [INFO] [47/77] Memproses periode 2023-11...
+2026-05-22 15:40:14,004 [INFO]   ↳ Scraping 2023-11 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:16,412 [INFO]   ✓ Berhasil: 2023-11 — data=15 kolom
+2026-05-22 15:40:18,183 [INFO] [48/77] Memproses periode 2023-12...
+2026-05-22 15:40:18,183 [INFO]   ↳ Scraping 2023-12 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:20,356 [INFO]   ✓ Berhasil: 2023-12 — data=15 kolom
+2026-05-22 15:40:21,948 [INFO] [49/77] Memproses periode 2024-01...
+2026-05-22 15:40:21,948 [INFO]   ↳ Scraping 2024-01 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:24,056 [INFO]   ✓ Berhasil: 2024-01 — data=15 kolom
+2026-05-22 15:40:25,497 [INFO] [50/77] Memproses periode 2024-02...
+2026-05-22 15:40:25,497 [INFO]   ↳ Scraping 2024-02 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:27,683 [INFO]   ✓ Berhasil: 2024-02 — data=15 kolom
+2026-05-22 15:40:29,043 [INFO] [51/77] Memproses periode 2024-03...
+2026-05-22 15:40:29,043 [INFO]   ↳ Scraping 2024-03 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:31,157 [INFO]   ✓ Berhasil: 2024-03 — data=15 kolom
+2026-05-22 15:40:32,670 [INFO] [52/77] Memproses periode 2024-04...
+2026-05-22 15:40:32,670 [INFO]   ↳ Scraping 2024-04 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:34,760 [INFO]   ✓ Berhasil: 2024-04 — data=15 kolom
+2026-05-22 15:40:36,403 [INFO] [53/77] Memproses periode 2024-05...
+2026-05-22 15:40:36,404 [INFO]   ↳ Scraping 2024-05 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:38,612 [INFO]   ✓ Berhasil: 2024-05 — data=15 kolom
+2026-05-22 15:40:40,144 [INFO] [54/77] Memproses periode 2024-06...
+2026-05-22 15:40:40,144 [INFO]   ↳ Scraping 2024-06 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:42,271 [INFO]   ✓ Berhasil: 2024-06 — data=15 kolom
+2026-05-22 15:40:43,784 [INFO] [55/77] Memproses periode 2024-07...
+2026-05-22 15:40:43,784 [INFO]   ↳ Scraping 2024-07 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:45,891 [INFO]   ✓ Berhasil: 2024-07 — data=15 kolom
+2026-05-22 15:40:47,235 [INFO] [56/77] Memproses periode 2024-08...
+2026-05-22 15:40:47,235 [INFO]   ↳ Scraping 2024-08 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:49,566 [INFO]   ✓ Berhasil: 2024-08 — data=15 kolom
+2026-05-22 15:40:50,909 [INFO] [57/77] Memproses periode 2024-09...
+2026-05-22 15:40:50,909 [INFO]   ↳ Scraping 2024-09 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:53,032 [INFO]   ✓ Berhasil: 2024-09 — data=15 kolom
+2026-05-22 15:40:54,765 [INFO] [58/77] Memproses periode 2024-10...
+2026-05-22 15:40:54,766 [INFO]   ↳ Scraping 2024-10 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:40:56,876 [INFO]   ✓ Berhasil: 2024-10 — data=15 kolom
+2026-05-22 15:40:58,000 [INFO] [59/77] Memproses periode 2024-11...
+2026-05-22 15:40:58,000 [INFO]   ↳ Scraping 2024-11 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:00,275 [INFO]   ✓ Berhasil: 2024-11 — data=15 kolom
+2026-05-22 15:41:01,799 [INFO] [60/77] Memproses periode 2024-12...
+2026-05-22 15:41:01,799 [INFO]   ↳ Scraping 2024-12 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:03,925 [INFO]   ✓ Berhasil: 2024-12 — data=15 kolom
+2026-05-22 15:41:05,835 [INFO] [61/77] Memproses periode 2025-01...
+2026-05-22 15:41:05,835 [INFO]   ↳ Scraping 2025-01 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:07,980 [INFO]   ✓ Berhasil: 2025-01 — data=15 kolom
+2026-05-22 15:41:09,766 [INFO] [62/77] Memproses periode 2025-02...
+2026-05-22 15:41:09,767 [INFO]   ↳ Scraping 2025-02 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:11,870 [INFO]   ✓ Berhasil: 2025-02 — data=15 kolom
+2026-05-22 15:41:13,022 [INFO] [63/77] Memproses periode 2025-03...
+2026-05-22 15:41:13,022 [INFO]   ↳ Scraping 2025-03 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:15,398 [INFO]   ✓ Berhasil: 2025-03 — data=15 kolom
+2026-05-22 15:41:17,321 [INFO] [64/77] Memproses periode 2025-04...
+2026-05-22 15:41:17,321 [INFO]   ↳ Scraping 2025-04 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:19,708 [INFO]   ✓ Berhasil: 2025-04 — data=15 kolom
+2026-05-22 15:41:20,840 [INFO] [65/77] Memproses periode 2025-05...
+2026-05-22 15:41:20,840 [INFO]   ↳ Scraping 2025-05 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:22,963 [INFO]   ✓ Berhasil: 2025-05 — data=15 kolom
+2026-05-22 15:41:24,605 [INFO] [66/77] Memproses periode 2025-06...
+2026-05-22 15:41:24,605 [INFO]   ↳ Scraping 2025-06 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:26,727 [INFO]   ✓ Berhasil: 2025-06 — data=15 kolom
+2026-05-22 15:41:28,179 [INFO] [67/77] Memproses periode 2025-07...
+2026-05-22 15:41:28,179 [INFO]   ↳ Scraping 2025-07 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:30,233 [INFO]   ✓ Berhasil: 2025-07 — data=15 kolom
+2026-05-22 15:41:32,125 [INFO] [68/77] Memproses periode 2025-08...
+2026-05-22 15:41:32,126 [INFO]   ↳ Scraping 2025-08 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:34,213 [INFO]   ✓ Berhasil: 2025-08 — data=15 kolom
+2026-05-22 15:41:36,129 [INFO] [69/77] Memproses periode 2025-09...
+2026-05-22 15:41:36,130 [INFO]   ↳ Scraping 2025-09 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:38,218 [INFO]   ✓ Berhasil: 2025-09 — data=15 kolom
+2026-05-22 15:41:39,336 [INFO] [70/77] Memproses periode 2025-10...
+2026-05-22 15:41:39,336 [INFO]   ↳ Scraping 2025-10 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:41,481 [INFO]   ✓ Berhasil: 2025-10 — data=15 kolom
+2026-05-22 15:41:42,554 [INFO] [71/77] Memproses periode 2025-11...
+2026-05-22 15:41:42,554 [INFO]   ↳ Scraping 2025-11 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:44,650 [INFO]   ✓ Berhasil: 2025-11 — data=15 kolom
+2026-05-22 15:41:45,987 [INFO] [72/77] Memproses periode 2025-12...
+2026-05-22 15:41:45,987 [INFO]   ↳ Scraping 2025-12 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:48,091 [INFO]   ✓ Berhasil: 2025-12 — data=15 kolom
+2026-05-22 15:41:49,292 [INFO] [73/77] Memproses periode 2026-01...
+2026-05-22 15:41:49,292 [INFO]   ↳ Scraping 2026-01 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:51,673 [INFO]   ✓ Berhasil: 2026-01 — data=15 kolom
+2026-05-22 15:41:53,362 [INFO] [74/77] Memproses periode 2026-02...
+2026-05-22 15:41:53,362 [INFO]   ↳ Scraping 2026-02 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:55,732 [INFO]   ✓ Berhasil: 2026-02 — data=15 kolom
+2026-05-22 15:41:57,249 [INFO] [75/77] Memproses periode 2026-03...
+2026-05-22 15:41:57,249 [INFO]   ↳ Scraping 2026-03 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:41:59,702 [INFO]   ✓ Berhasil: 2026-03 — data=15 kolom
+2026-05-22 15:42:00,841 [INFO] [76/77] Memproses periode 2026-04...
+2026-05-22 15:42:00,842 [INFO]   ↳ Scraping 2026-04 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:42:03,354 [INFO]   ✓ Berhasil: 2026-04 — data=15 kolom
+2026-05-22 15:42:04,520 [INFO] [77/77] Memproses periode 2026-05...
+2026-05-22 15:42:04,520 [INFO]   ↳ Scraping 2026-05 | bandara=UPG | kategori=domestik (percobaan 1)
+2026-05-22 15:42:06,964 [INFO]   ✓ Berhasil: 2026-05 — data=15 kolom
+2026-05-22 15:42:08,942 [INFO] 
+[OK] CSV disimpan: lalinud_UPG_domestik_2020-01_2026-05.csv
+2026-05-22 15:42:09,154 [INFO] [OK] Excel disimpan: lalinud_UPG_domestik_2020-01_2026-05.xlsx
+2026-05-22 15:42:09,154 [INFO] File progress sementara dihapus.
+2026-05-22 15:42:09,154 [INFO] 
+============================================================
+2026-05-22 15:42:09,155 [INFO]   RINGKASAN
+2026-05-22 15:42:09,155 [INFO] ============================================================
+2026-05-22 15:42:09,155 [INFO]   Total periode diminta : 77
+2026-05-22 15:42:09,155 [INFO]   Berhasil di-scrape    : 77
+2026-05-22 15:42:09,155 [INFO]   Gagal                 : 0
+2026-05-22 15:42:09,155 [INFO] ============================================================
